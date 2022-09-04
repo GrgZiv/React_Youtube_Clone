@@ -12,3 +12,6 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
+# RapidAPI
+
+RapidAPI (Youtube v3) is used to fetch videos and video data. This project is mostly an API fetching practice :)
