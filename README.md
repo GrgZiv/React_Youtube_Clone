@@ -27,3 +27,5 @@ RapidAPI (Youtube v3) is used to fetch videos and video data. This project is mo
 # App Preview
 
 ![Preview Image](https://github.com/GrgZiv/React_Youtube_Clone/blob/main/Yt_Clone_Preview.jpg)
+
+This project was originally made by JavaScriptMastery: https://www.youtube.com/c/JavaScriptMastery
