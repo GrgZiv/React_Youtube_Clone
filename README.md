@@ -24,6 +24,8 @@ RapidAPI (Youtube v3) is used to fetch videos and video data. This project is mo
 - channels, channel information and channel videos
 - categories and related videos
 
+App is deployed by Netlify: https://marvelous-brigadeiros-4ae289.netlify.app/
+
 # App Preview
 
 ![Preview Image](https://github.com/GrgZiv/React_Youtube_Clone/blob/main/Yt_Clone_Preview.jpg)
