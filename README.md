@@ -1,3 +1,7 @@
+# Deployed
+
+App is deployed by Netlify: https://marvelous-brigadeiros-4ae289.netlify.app/
+
 # How to use
 
 Download or clone the repository. 
@@ -23,8 +27,6 @@ RapidAPI (Youtube v3) is used to fetch videos and video data. This project is mo
 - playing videos, video information
 - channels, channel information and channel videos
 - categories and related videos
-
-App is deployed by Netlify: https://marvelous-brigadeiros-4ae289.netlify.app/
 
 # App Preview
 
